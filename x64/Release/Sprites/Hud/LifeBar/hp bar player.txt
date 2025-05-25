@@ -1,0 +1,2 @@
+holder 9x 10y
+bar rouge 261x 106y

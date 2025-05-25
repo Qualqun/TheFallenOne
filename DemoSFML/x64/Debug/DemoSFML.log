@@ -1,0 +1,159 @@
+﻿  Animation.cpp
+C:\Users\Etudiant5\Desktop\ddfsdf\Devs\The true project of the mog\The follen one\DemoSFML\Animation.cpp(7,14): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+C:\Users\Etudiant5\Desktop\ddfsdf\Devs\The true project of the mog\The follen one\DemoSFML\Animation.cpp(11,15): warning C4018: '>' : incompatibilité signed/unsigned
+C:\Users\Etudiant5\Desktop\ddfsdf\Devs\The true project of the mog\The follen one\DemoSFML\Animation.cpp(15,21): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\Etudiant5\Desktop\ddfsdf\Devs\The true project of the mog\The follen one\DemoSFML\Animation.cpp(19,21): warning C4018: '<=' : incompatibilité signed/unsigned
+  BossDeath.cpp
+  BossFamine.cpp
+C:\Users\Etudiant5\Desktop\ddfsdf\Devs\The true project of the mog\The follen one\DemoSFML\BossFamine.cpp(134,23): warning C4305: '=' : troncation de 'double' à 'float'
+C:\Users\Etudiant5\Desktop\ddfsdf\Devs\The true project of the mog\The follen one\DemoSFML\BossFamine.cpp(177,16): warning C4305: '=' : troncation de 'double' à 'float'
+C:\Users\Etudiant5\Desktop\ddfsdf\Devs\The true project of the mog\The follen one\DemoSFML\BossFamine.cpp(181,26): warning C4305: '=' : troncation de 'double' à 'float'
+C:\Users\Etudiant5\Desktop\ddfsdf\Devs\The true project of the mog\The follen one\DemoSFML\BossFamine.cpp(217,21): warning C4305: '=' : troncation de 'double' à 'float'
+C:\Users\Etudiant5\Desktop\ddfsdf\Devs\The true project of the mog\The follen one\DemoSFML\BossFamine.cpp(222,47): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\Etudiant5\Desktop\ddfsdf\Devs\The true project of the mog\The follen one\DemoSFML\BossFamine.cpp(231,24): warning C4305: '=' : troncation de 'double' à 'float'
+C:\Users\Etudiant5\Desktop\ddfsdf\Devs\The true project of the mog\The follen one\DemoSFML\BossFamine.cpp(251,26): warning C4305: '=' : troncation de 'double' à 'float'
+C:\Users\Etudiant5\Desktop\ddfsdf\Devs\The true project of the mog\The follen one\DemoSFML\BossFamine.cpp(371,54): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+  BossPandemic.cpp
+C:\Users\Etudiant5\Desktop\ddfsdf\Devs\The true project of the mog\The follen one\DemoSFML\BossPandemic.h(162,25): warning C4244: 'return' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Etudiant5\Desktop\ddfsdf\Devs\The true project of the mog\The follen one\DemoSFML\BossPandemic.cpp(197,59): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\Etudiant5\Desktop\ddfsdf\Devs\The true project of the mog\The follen one\DemoSFML\BossPandemic.cpp(508,51): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\Etudiant5\Desktop\ddfsdf\Devs\The true project of the mog\The follen one\DemoSFML\BossPandemic.cpp(533,24): warning C4244: '=' : conversion de 'T' en 'float', perte possible de données
+          with
+          [
+              T=int
+          ]
+C:\Users\Etudiant5\Desktop\ddfsdf\Devs\The true project of the mog\The follen one\DemoSFML\BossPandemic.cpp(534,17): warning C4244: '=' : conversion de 'T' en 'float', perte possible de données
+          with
+          [
+              T=int
+          ]
+C:\Users\Etudiant5\Desktop\ddfsdf\Devs\The true project of the mog\The follen one\DemoSFML\BossPandemic.cpp(649,105): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+  BossPandemic.h
+C:\Users\Etudiant5\Desktop\ddfsdf\Devs\The true project of the mog\The follen one\DemoSFML\BossPandemic.h(162,25): warning C4244: 'return' : conversion de 'int' en 'float', perte possible de données
+  BossWar.cpp
+  Camera.cpp
+C:\Users\Etudiant5\Desktop\ddfsdf\Devs\The true project of the mog\The follen one\DemoSFML\Camera.cpp(64,18): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\Etudiant5\Desktop\ddfsdf\Devs\The true project of the mog\The follen one\DemoSFML\Camera.cpp(68,18): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\Etudiant5\Desktop\ddfsdf\Devs\The true project of the mog\The follen one\DemoSFML\Camera.cpp(85,58): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+C:\Users\Etudiant5\Desktop\ddfsdf\Devs\The true project of the mog\The follen one\DemoSFML\Camera.cpp(89,58): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+  Collide.cpp
+C:\Users\Etudiant5\Desktop\ddfsdf\Devs\The true project of the mog\The follen one\DemoSFML\BossPandemic.h(162,25): warning C4244: 'return' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Etudiant5\Desktop\ddfsdf\Devs\The true project of the mog\The follen one\DemoSFML\Collide.h(39,1): warning C4099: 'GameData' : nom de type déjà rencontré avec 'class' et utilisant maintenant 'struct'
+C:\Users\Etudiant5\Desktop\ddfsdf\Devs\The true project of the mog\The follen one\DemoSFML\Collide.h(38,8): message : voir la déclaration de 'GameData'
+  Common.cpp
+C:\Users\Etudiant5\Desktop\ddfsdf\Devs\The true project of the mog\The follen one\DemoSFML\Common.cpp(37,18): warning C4267: 'initialisation' : conversion de 'size_t' en 'int32', perte possible de données
+C:\Users\Etudiant5\Desktop\ddfsdf\Devs\The true project of the mog\The follen one\DemoSFML\Common.cpp(102,18): warning C4267: 'initialisation' : conversion de 'size_t' en 'int32', perte possible de données
+C:\Users\Etudiant5\Desktop\ddfsdf\Devs\The true project of the mog\The follen one\DemoSFML\Common.cpp(152,24): warning C4305: '=' : troncation de 'double' à 'float'
+C:\Users\Etudiant5\Desktop\ddfsdf\Devs\The true project of the mog\The follen one\DemoSFML\Common.cpp(177,24): warning C4305: '=' : troncation de 'double' à 'float'
+C:\Users\Etudiant5\Desktop\ddfsdf\Devs\The true project of the mog\The follen one\DemoSFML\Common.cpp(196,73): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Etudiant5\Desktop\ddfsdf\Devs\The true project of the mog\The follen one\DemoSFML\Common.cpp(196,55): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Etudiant5\Desktop\ddfsdf\Devs\The true project of the mog\The follen one\DemoSFML\Common.cpp(277,17): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+C:\Users\Etudiant5\Desktop\ddfsdf\Devs\The true project of the mog\The follen one\DemoSFML\Common.cpp(308,23): warning C4244: 'return' : conversion de 'double' en 'float', perte possible de données
+C:\Users\Etudiant5\Desktop\ddfsdf\Devs\The true project of the mog\The follen one\DemoSFML\Common.cpp(313,22): warning C4244: 'return' : conversion de 'double' en 'float', perte possible de données
+  Hud.cpp
+C:\Users\Etudiant5\Desktop\ddfsdf\Devs\The true project of the mog\The follen one\DemoSFML\Hud.cpp(61,52): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+  Main.cpp
+C:\Users\Etudiant5\Desktop\ddfsdf\Devs\The true project of the mog\The follen one\DemoSFML\BossPandemic.h(162,25): warning C4244: 'return' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Etudiant5\Desktop\ddfsdf\Devs\The true project of the mog\The follen one\DemoSFML\Collide.h(39,1): warning C4099: 'GameData' : nom de type déjà rencontré avec 'class' et utilisant maintenant 'struct'
+C:\Users\Etudiant5\Desktop\ddfsdf\Devs\The true project of the mog\The follen one\DemoSFML\Collide.h(38,8): message : voir la déclaration de 'GameData'
+C:\Users\Etudiant5\Desktop\ddfsdf\Devs\The true project of the mog\The follen one\DemoSFML\Update.h(6,15): warning C4099: 'GameData' : nom de type déjà rencontré avec 'struct' et utilisant maintenant 'class'
+C:\Users\Etudiant5\Desktop\ddfsdf\Devs\The true project of the mog\The follen one\DemoSFML\Collide.h(38,8): message : voir la déclaration de 'GameData'
+C:\Users\Etudiant5\Desktop\ddfsdf\Devs\The true project of the mog\The follen one\DemoSFML\Main.cpp(12,15): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+  Map.cpp
+C:\Users\Etudiant5\Desktop\ddfsdf\Devs\The true project of the mog\The follen one\DemoSFML\Map.cpp(22,18): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+C:\Users\Etudiant5\Desktop\ddfsdf\Devs\The true project of the mog\The follen one\DemoSFML\Map.cpp(141,44): warning C4267: '=' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\Etudiant5\Desktop\ddfsdf\Devs\The true project of the mog\The follen one\DemoSFML\Map.cpp(144,43): warning C4267: '=' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\Etudiant5\Desktop\ddfsdf\Devs\The true project of the mog\The follen one\DemoSFML\Map.cpp(147,38): warning C4267: '=' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\Etudiant5\Desktop\ddfsdf\Devs\The true project of the mog\The follen one\DemoSFML\Map.cpp(150,44): warning C4267: '=' : conversion de 'size_t' en 'int', perte possible de données
+  Menu.cpp
+C:\Users\Etudiant5\Desktop\ddfsdf\Devs\The true project of the mog\The follen one\DemoSFML\BossPandemic.h(162,25): warning C4244: 'return' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Etudiant5\Desktop\ddfsdf\Devs\The true project of the mog\The follen one\DemoSFML\Update.h(6,15): warning C4099: 'GameData' : nom de type déjà rencontré avec 'struct' et utilisant maintenant 'class'
+C:\Users\Etudiant5\Desktop\ddfsdf\Devs\The true project of the mog\The follen one\DemoSFML\Collide.h(38,8): message : voir la déclaration de 'GameData'
+C:\Users\Etudiant5\Desktop\ddfsdf\Devs\The true project of the mog\The follen one\DemoSFML\Menu.h(13,15): warning C4099: 'GameData' : nom de type déjà rencontré avec 'struct' et utilisant maintenant 'class'
+C:\Users\Etudiant5\Desktop\ddfsdf\Devs\The true project of the mog\The follen one\DemoSFML\Update.h(6,7): message : voir la déclaration de 'GameData'
+  Player.cpp
+C:\Users\Etudiant5\Desktop\ddfsdf\Devs\The true project of the mog\The follen one\DemoSFML\Player.cpp(38,21): warning C4305: 'argument' : troncation de 'double' à 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Etudiant5\Desktop\ddfsdf\Devs\The true project of the mog\The follen one\DemoSFML\Player.cpp(317,38): warning C4244: '-=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\Etudiant5\Desktop\ddfsdf\Devs\The true project of the mog\The follen one\DemoSFML\Player.cpp(325,43): warning C4244: '-=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\Etudiant5\Desktop\ddfsdf\Devs\The true project of the mog\The follen one\DemoSFML\Player.cpp(334,43): warning C4244: '+=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\Etudiant5\Desktop\ddfsdf\Devs\The true project of the mog\The follen one\DemoSFML\Player.cpp(546,55): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\Etudiant5\Desktop\ddfsdf\Devs\The true project of the mog\The follen one\DemoSFML\Player.cpp(547,55): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\Etudiant5\Desktop\ddfsdf\Devs\The true project of the mog\The follen one\DemoSFML\Player.cpp(483,9): warning C4101: 'velocity' : variable locale non référencée
+  SFMLDebugDraw.cpp
+C:\Users\Etudiant5\Desktop\ddfsdf\Devs\The true project of the mog\The follen one\DemoSFML\SFMLDebugDraw.cpp(99,19): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+  Sound.cpp
+  Update.cpp
+C:\Users\Etudiant5\Desktop\ddfsdf\Devs\The true project of the mog\The follen one\DemoSFML\BossPandemic.h(162,25): warning C4244: 'return' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Etudiant5\Desktop\ddfsdf\Devs\The true project of the mog\The follen one\DemoSFML\Collide.h(39,1): warning C4099: 'GameData' : nom de type déjà rencontré avec 'class' et utilisant maintenant 'struct'
+C:\Users\Etudiant5\Desktop\ddfsdf\Devs\The true project of the mog\The follen one\DemoSFML\Collide.h(38,8): message : voir la déclaration de 'GameData'
+C:\Users\Etudiant5\Desktop\ddfsdf\Devs\The true project of the mog\The follen one\DemoSFML\Update.h(6,15): warning C4099: 'GameData' : nom de type déjà rencontré avec 'struct' et utilisant maintenant 'class'
+C:\Users\Etudiant5\Desktop\ddfsdf\Devs\The true project of the mog\The follen one\DemoSFML\Collide.h(38,8): message : voir la déclaration de 'GameData'
+  Génération de code en cours...
+C:\Users\Etudiant5\Desktop\ddfsdf\Devs\The true project of the mog\The follen one\DemoSFML\Common.cpp(62): warning C4715: 'CreateBodyB2D' : les chemins de contrôle ne retournent pas tous une valeur
+C:\Users\Etudiant5\Desktop\ddfsdf\Devs\The true project of the mog\The follen one\DemoSFML\Common.cpp(131): warning C4715: 'CreateBodyB2D' : les chemins de contrôle ne retournent pas tous une valeur
+x64\Debug\BossPandemic.obj : warning LNK4042: objet spécifié plus d'une fois ; définitions supplémentaires ignorées
+box2d.lib(b2_fixture.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'box2d.lib(b2_fixture.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+box2d.lib(b2_world.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'box2d.lib(b2_world.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+box2d.lib(b2_body.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'box2d.lib(b2_body.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+box2d.lib(b2_circle_shape.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'box2d.lib(b2_circle_shape.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+box2d.lib(b2_polygon_shape.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'box2d.lib(b2_polygon_shape.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+box2d.lib(b2_draw.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'box2d.lib(b2_draw.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+box2d.lib(b2_settings.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'box2d.lib(b2_settings.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+box2d.lib(b2_block_allocator.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'box2d.lib(b2_block_allocator.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+box2d.lib(b2_broad_phase.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'box2d.lib(b2_broad_phase.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+box2d.lib(b2_island.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'box2d.lib(b2_island.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+box2d.lib(b2_dynamic_tree.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'box2d.lib(b2_dynamic_tree.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+box2d.lib(b2_contact.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'box2d.lib(b2_contact.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+box2d.lib(b2_joint.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'box2d.lib(b2_joint.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+box2d.lib(b2_distance.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'box2d.lib(b2_distance.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+box2d.lib(b2_time_of_impact.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'box2d.lib(b2_time_of_impact.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+box2d.lib(b2_timer.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'box2d.lib(b2_timer.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+box2d.lib(b2_contact_manager.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'box2d.lib(b2_contact_manager.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+box2d.lib(b2_stack_allocator.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'box2d.lib(b2_stack_allocator.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+box2d.lib(b2_math.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'box2d.lib(b2_math.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+box2d.lib(b2_collision.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'box2d.lib(b2_collision.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+box2d.lib(b2_contact_solver.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'box2d.lib(b2_contact_solver.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+box2d.lib(b2_chain_circle_contact.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'box2d.lib(b2_chain_circle_contact.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+box2d.lib(b2_chain_polygon_contact.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'box2d.lib(b2_chain_polygon_contact.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+box2d.lib(b2_circle_contact.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'box2d.lib(b2_circle_contact.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+box2d.lib(b2_edge_circle_contact.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'box2d.lib(b2_edge_circle_contact.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+box2d.lib(b2_edge_polygon_contact.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'box2d.lib(b2_edge_polygon_contact.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+box2d.lib(b2_polygon_circle_contact.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'box2d.lib(b2_polygon_circle_contact.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+box2d.lib(b2_polygon_contact.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'box2d.lib(b2_polygon_contact.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+box2d.lib(b2_distance_joint.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'box2d.lib(b2_distance_joint.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+box2d.lib(b2_friction_joint.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'box2d.lib(b2_friction_joint.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+box2d.lib(b2_gear_joint.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'box2d.lib(b2_gear_joint.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+box2d.lib(b2_motor_joint.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'box2d.lib(b2_motor_joint.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+box2d.lib(b2_mouse_joint.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'box2d.lib(b2_mouse_joint.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+box2d.lib(b2_prismatic_joint.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'box2d.lib(b2_prismatic_joint.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+box2d.lib(b2_pulley_joint.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'box2d.lib(b2_pulley_joint.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+box2d.lib(b2_revolute_joint.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'box2d.lib(b2_revolute_joint.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+box2d.lib(b2_weld_joint.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'box2d.lib(b2_weld_joint.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+box2d.lib(b2_wheel_joint.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'box2d.lib(b2_wheel_joint.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+box2d.lib(b2_world_callbacks.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'box2d.lib(b2_world_callbacks.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+box2d.lib(b2_collide_edge.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'box2d.lib(b2_collide_edge.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+box2d.lib(b2_chain_shape.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'box2d.lib(b2_chain_shape.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+box2d.lib(b2_edge_shape.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'box2d.lib(b2_edge_shape.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+box2d.lib(b2_collide_circle.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'box2d.lib(b2_collide_circle.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+box2d.lib(b2_collide_polygon.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'box2d.lib(b2_collide_polygon.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+  DemoSFML.vcxproj -> C:\Users\Etudiant5\Desktop\ddfsdf\Devs\The true project of the mog\The follen one\x64\Debug\DemoSFML.exe

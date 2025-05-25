@@ -1,0 +1,68 @@
+﻿  Player.cpp
+C:\Users\hedib\Desktop\The fallen One\DemoSFML\Menu.h(13,8): warning C4099: 'GameData' : nom de type déjà rencontré avec 'class' et utilisant maintenant 'struct'
+  (compiler le fichier source 'Player.cpp')
+      C:\Users\hedib\Desktop\The fallen One\DemoSFML\Update.h(6,7):
+      voir la déclaration de 'GameData'
+  
+C:\Users\hedib\Desktop\The fallen One\DemoSFML\Collide.h(57,8): warning C4099: 'GameData' : nom de type déjà rencontré avec 'class' et utilisant maintenant 'struct'
+  (compiler le fichier source 'Player.cpp')
+      C:\Users\hedib\Desktop\The fallen One\DemoSFML\Collide.h(57,8):
+      voir la déclaration de 'GameData'
+  
+C:\Users\hedib\Desktop\The fallen One\DemoSFML\Player.cpp(53,21): warning C4305: 'argument' : troncation de 'double' à 'T'
+C:\Users\hedib\Desktop\The fallen One\DemoSFML\Player.cpp(53,21): warning C4305:         with
+C:\Users\hedib\Desktop\The fallen One\DemoSFML\Player.cpp(53,21): warning C4305:         [
+C:\Users\hedib\Desktop\The fallen One\DemoSFML\Player.cpp(53,21): warning C4305:             T=float
+C:\Users\hedib\Desktop\The fallen One\DemoSFML\Player.cpp(53,21): warning C4305:         ]
+C:\Users\hedib\Desktop\The fallen One\DemoSFML\Player.cpp(393,18): warning C4305: '+=' : troncation de 'double' à 'float'
+C:\Users\hedib\Desktop\The fallen One\DemoSFML\Player.cpp(400,37): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+C:\Users\hedib\Desktop\The fallen One\DemoSFML\Player.cpp(401,36): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+C:\Users\hedib\Desktop\The fallen One\DemoSFML\Player.cpp(407,13): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\hedib\Desktop\The fallen One\DemoSFML\Player.cpp(412,22): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\hedib\Desktop\The fallen One\DemoSFML\Player.cpp(508,21): warning C4305: '=' : troncation de 'double' à 'float'
+C:\Users\hedib\Desktop\The fallen One\DemoSFML\Player.cpp(509,15): warning C4305: '=' : troncation de 'double' à 'float'
+C:\Users\hedib\Desktop\The fallen One\DemoSFML\Player.cpp(520,27): warning C4244: 'argument' : conversion de 'size_t' en 'float', perte possible de données
+C:\Users\hedib\Desktop\The fallen One\DemoSFML\Player.cpp(521,27): warning C4244: 'argument' : conversion de 'size_t' en 'float', perte possible de données
+C:\Users\hedib\Desktop\The fallen One\DemoSFML\Player.cpp(583,24): warning C4305: 'argument' : troncation de 'double' à 'T'
+C:\Users\hedib\Desktop\The fallen One\DemoSFML\Player.cpp(583,24): warning C4305:         with
+C:\Users\hedib\Desktop\The fallen One\DemoSFML\Player.cpp(583,24): warning C4305:         [
+C:\Users\hedib\Desktop\The fallen One\DemoSFML\Player.cpp(583,24): warning C4305:             T=float
+C:\Users\hedib\Desktop\The fallen One\DemoSFML\Player.cpp(583,24): warning C4305:         ]
+C:\Users\hedib\Desktop\The fallen One\DemoSFML\Player.cpp(628,19): warning C4305: '=' : troncation de 'double' à 'float'
+C:\Users\hedib\Desktop\The fallen One\DemoSFML\Player.cpp(741,40): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+C:\Users\hedib\Desktop\The fallen One\DemoSFML\Player.cpp(742,40): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+C:\Users\hedib\Desktop\The fallen One\DemoSFML\Player.cpp(746,39): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\hedib\Desktop\The fallen One\DemoSFML\Player.cpp(746,34): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\hedib\Desktop\The fallen One\DemoSFML\Player.cpp(751,81): warning C4244: 'argument' : conversion de 'double' en 'T', perte possible de données
+C:\Users\hedib\Desktop\The fallen One\DemoSFML\Player.cpp(751,81): warning C4244:         with
+C:\Users\hedib\Desktop\The fallen One\DemoSFML\Player.cpp(751,81): warning C4244:         [
+C:\Users\hedib\Desktop\The fallen One\DemoSFML\Player.cpp(751,81): warning C4244:             T=float
+C:\Users\hedib\Desktop\The fallen One\DemoSFML\Player.cpp(751,81): warning C4244:         ]
+C:\Users\hedib\Desktop\The fallen One\DemoSFML\Player.cpp(751,49): warning C4244: 'argument' : conversion de 'double' en 'T', perte possible de données
+C:\Users\hedib\Desktop\The fallen One\DemoSFML\Player.cpp(751,49): warning C4244:         with
+C:\Users\hedib\Desktop\The fallen One\DemoSFML\Player.cpp(751,49): warning C4244:         [
+C:\Users\hedib\Desktop\The fallen One\DemoSFML\Player.cpp(751,49): warning C4244:             T=float
+C:\Users\hedib\Desktop\The fallen One\DemoSFML\Player.cpp(751,49): warning C4244:         ]
+C:\Users\hedib\Desktop\The fallen One\DemoSFML\Player.cpp(865,102): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+C:\Users\hedib\Desktop\The fallen One\DemoSFML\Player.cpp(865,102): warning C4244:         with
+C:\Users\hedib\Desktop\The fallen One\DemoSFML\Player.cpp(865,102): warning C4244:         [
+C:\Users\hedib\Desktop\The fallen One\DemoSFML\Player.cpp(865,102): warning C4244:             T=float
+C:\Users\hedib\Desktop\The fallen One\DemoSFML\Player.cpp(865,102): warning C4244:         ]
+C:\Users\hedib\Desktop\The fallen One\DemoSFML\Player.cpp(881,102): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+C:\Users\hedib\Desktop\The fallen One\DemoSFML\Player.cpp(881,102): warning C4244:         with
+C:\Users\hedib\Desktop\The fallen One\DemoSFML\Player.cpp(881,102): warning C4244:         [
+C:\Users\hedib\Desktop\The fallen One\DemoSFML\Player.cpp(881,102): warning C4244:             T=float
+C:\Users\hedib\Desktop\The fallen One\DemoSFML\Player.cpp(881,102): warning C4244:         ]
+C:\Users\hedib\Desktop\The fallen One\DemoSFML\Player.cpp(990,38): warning C4244: '-=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\hedib\Desktop\The fallen One\DemoSFML\Player.cpp(1237,54): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\hedib\Desktop\The fallen One\DemoSFML\Player.cpp(1238,54): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\hedib\Desktop\The fallen One\DemoSFML\Player.cpp(1249,55): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\hedib\Desktop\The fallen One\DemoSFML\Player.cpp(1250,55): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\hedib\Desktop\The fallen One\DemoSFML\Player.cpp(1218,9): warning C4101: 'velocity' : variable locale non référencée
+x64\Release\BossPandemic.obj : warning LNK4042: objet spécifié plus d'une fois ; définitions supplémentaires ignorées
+  Génération de code en cours
+  3 of 1880 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    24 functions had inline decision re-evaluated but remain unchanged
+  Fin de la génération du code
+  DemoSFML.vcxproj -> C:\Users\hedib\Desktop\The fallen One\x64\Release\DemoSFML.exe
